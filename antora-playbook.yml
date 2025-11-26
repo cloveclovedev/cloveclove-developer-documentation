@@ -1,5 +1,5 @@
 site:
-  title: CloveClove Developer Documentation
+  title: CloveClove Developer Docs
   start_page: cloveclove-developer-docs::index.adoc
 content:
   sources:

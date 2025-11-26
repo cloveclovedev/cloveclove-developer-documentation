@@ -1,6 +1,6 @@
 name: cloveclove-developer-docs
 version: ~
-title: CloveClove Developer Documentation
+title: CloveClove Developer Docs
 nav:
 - modules/ROOT/nav.adoc
 
