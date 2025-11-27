@@ -1,6 +1,6 @@
 site:
   title: CloveClove Developer Docs
-  start_page: cloveclove-developer-docs::index.adoc
+  start_page: ROOT::index.adoc
 content:
   sources:
   - url: .
